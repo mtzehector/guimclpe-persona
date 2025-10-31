@@ -1,0 +1,38 @@
+{
+    "id": 141,
+    "estadoPersonaEf": null,
+    "cveEstadoPersonaEf": {
+        "id": 2,
+        "desEstadoPersonaEf": "Suspendida"
+    },
+    "cveSexo": 1,
+    "cveEntidadFinanciera": 1,
+    "cvePersonalEf": 1,
+    "cveEstadoVital": 1,
+    "cveTipoEmpleado": 1,
+    "cveRefDomicilio": "1",
+    "nombre": "RUBEN",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "BAUTISTA",
+    "numEmpleado": "1",
+    "numNss": 1015200338,
+    "cveCurp": "ROBR540417HCLDTB02",
+    "usuario": "eduardo",
+    "passwordUsu": "123",
+    "fecNacimiento": "20/01/1991 12:00:00",
+    "registroPatronal": null,
+    "telLocal": null,
+    "telCelular": null,
+    "indPassword": null,
+    "fecRegistroAlta": null,
+    "fecRegistroBaja": null,
+    "fecRegistroActualizado": null,
+    "domicilio": {
+        "idDomicilio": null,
+        "calle": null,
+        "numExteriorAlf": null,
+        "numInteriorAlf": null,
+        "codigoPostal": null,
+        "asentamiento": null
+    }
+}

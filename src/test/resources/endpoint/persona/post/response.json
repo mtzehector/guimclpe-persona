@@ -1,0 +1,115 @@
+{
+    "persona": {
+        "id": 205,
+        "estadoPersonaEf": null,
+        "cveEstadoPersonaEf": {
+            "id": 1,
+            "desEstadoPersonaEf": null
+        },
+        "cveSexo": 1,
+        "cveEntidadFinanciera": 1,
+        "cvePersonalEf": 1,
+        "cveEstadoVital": 1,
+        "cveTipoEmpleado": 1,
+        "cveRefDomicilio": "1",
+        "nombre": "Carlos",
+        "primerApellido": "Trejo",
+        "segundoApellido": "Gasper",
+        "numEmpleado": "1",
+        "numNss": "1015200338",
+        "cveCurp": "GUDE481201HCLRML07",
+        "usuario": "eduardo",
+        "passwordUsu": "123",
+        "fecNacimiento": null,
+        "registroPatronal": "01043571",
+        "telLocal": null,
+        "telCelular": null,
+        "indPassword": null,
+        "fecRegistroAlta": null,
+        "fecRegistroBaja": null,
+        "fecRegistroActualizado": null,
+        "correoElectronico": null,
+        "domicilio": {
+            "idDomicilio": null,
+            "calle": "Aqui va la calle",
+            "numExteriorAlf": "11",
+            "numInteriorAlf": "22",
+            "codigoPostal": "15900",
+            "asentamiento": {
+                "municipio": {
+                    "clave": "017",
+                    "nombre": null,
+                    "entidadFederativa": {
+                        "idRenapo": null,
+                        "claveRenapo": null,
+                        "clave": "09",
+                        "nombre": null,
+                        "municipios": null,
+                        "errorFormGeneral": null,
+                        "checked": null
+                    },
+                    "localidades": null,
+                    "errorFromGeneral": null,
+                    "checked": null
+                },
+                "clave": "025772",
+                "nombre": "Jardín Balbuena",
+                "localidad": {
+                    "clave": null,
+                    "nombre": null,
+                    "municipio": {
+                        "clave": "017",
+                        "nombre": "VENUSTIANO CARRANZA",
+                        "entidadFederativa": {
+                            "idRenapo": null,
+                            "claveRenapo": null,
+                            "clave": "09",
+                            "nombre": "DISTRITO FEDERAL",
+                            "municipios": null,
+                            "errorFormGeneral": null,
+                            "checked": null
+                        },
+                        "localidades": null,
+                        "errorFromGeneral": null,
+                        "checked": null
+                    },
+                    "asentamientos": null,
+                    "errorFormGeneral": null,
+                    "checked": null
+                },
+                "codigoPostal": null,
+                "tipoAsentamiento": null,
+                "periodo": "0",
+                "errorFormGeneral": null,
+                "checked": null
+            }
+        }
+    },
+    "laboralRequest": {
+        "nss": "1015200338"
+    },
+    "laboralResponse": {
+        "listInfoRelacionesLaborales": [
+            {
+                "lstInfoRelacionesLaborales": {
+                    "modalidad": "10",
+                    "tipoMovimiento": "08",
+                    "regPatron": "01043571",
+                    "fecIniRelLab": "2001-07-17",
+                    "fecFinRelLab": "2017-07-31"
+                }
+            },
+            {
+                "lstInfoRelacionesLaborales": {
+                    "modalidad": "10",
+                    "tipoMovimiento": "01",
+                    "regPatron": "D1710788",
+                    "fecIniRelLab": "1987-04-15",
+                    "fecFinRelLab": "1987-06-30"
+                }
+            }
+        ],
+        "code": "000",
+        "message": "Éxito"
+    }
+}
